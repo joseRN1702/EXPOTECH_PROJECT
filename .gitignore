@@ -2,3 +2,6 @@ node_modules\ndist\n.env\n.vscode\n.idea
 
 # ignore zip artifacts
 *.zip
+
+# ignore git backup directories from earlier conversion
+projeto-semestral-node/.git.backup/
